@@ -7,7 +7,7 @@
 끊임없이 고민하고 기회를 발견할 준비가 된</h4>
 
 <!-- <br> -->
-<p style="font-size:20px"><strong>🎨 UX 기획자 한선호입니다.<strong></p>
+<p style="font-size:40px"><strong>🎨 UX 기획자 한선호입니다.<strong></p>
 <img src = "https://i.pinimg.com/originals/f3/70/f9/f370f9a3b36115f5799a3a88d32e8f99.gif" width="150px" />
 </div>
 
