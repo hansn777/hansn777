@@ -16,7 +16,7 @@
 <div align="center">
 <h3>🎨 My Portfolio here</h3>
 
-<h5><a href="https://fortunate-cut-6d8.notion.site/9c1bc2aad8b445039a8e57789a24d005?pvs=4" style="font-size:18px">Notion</a> 포트폴리오 바로가기</h5> <h5><a href="https://www.behance.net/hansn777789fb" style="font-size:10px">Behence</a> 포트폴리오 바로가기</h5>
+<h5><a href="https://hansn97.notion.site/9c1bc2aad8b445039a8e57789a24d005?pvs=4" style="font-size:18px">Notion</a> 포트폴리오 바로가기</h5> <h5><a href="https://www.behance.net/hansn777789fb" style="font-size:10px">Behence</a> 포트폴리오 바로가기</h5>
 <h6><a style="font-size:18px">Sn.O Web</a> 포트폴리오 준비중..</h6>
 </div>
 <br/>
